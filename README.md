@@ -17,14 +17,17 @@ I'm a detail-oriented and motivated Data Analytics and Full Stack Development en
 
 ---
 
-### 🧰 Skills
+### 🛠️ Technical Skills
 
-- **Languages**: Java, JavaScript, C  
-- **Database Tools**: SQL, Stored Procedures  
-- **Frameworks**: Java Full Stack (in progress)  
-- **Web Development**: HTML, CSS  
-- **Tools**: Git, Power BI, VS Code  
-- **Soft Skills**: Problem-Solving, Team Collaboration, Attention to Detail
+| Category           | Skills                                              |
+|--------------------|-----------------------------------------------------|
+| **Languages**       | Java, JavaScript, C                                 |
+| **Web Development** | HTML, CSS                                           |
+| **Databases**       | SQL, Query Optimization, Stored Procedures          |
+| **Analytics Tools** | Power BI, Data Cleaning, Reporting                  |
+| **Dev Tools**       | Git, VS Code                                        |
+| **Platforms**       | Windows, GitHub                                     |
+
 
 ---
 
