@@ -33,14 +33,10 @@ I'm a detail-oriented and motivated Data Analytics and Full Stack Development en
 
 ### 💼 Experience
 
-- **Process Associate** @ FAI *(Hyderabad, 06/2023 – Present)*  
+- **DATA ANALYST** @ FAI *(Hyderabad, 06/2023 – Present)*  
   Worked on SQL-driven business analytics and reporting.
 
-- **Intern** @ HMI Engineering Services *(11/2023 – 12/2023)*  
-  Focused on Java-based full stack development projects.
 
-- **Data Analytics Internship** *(01/2025 – 02/2025)*  
-  Hands-on experience with real-time analytics projects.
 
 ---
 
